@@ -1,0 +1,1 @@
+Simple game to practice vocabulary. Upload a list of vocabulary of your choice (in a language of your choice) to the game, and play a multiple-choice selection game. The multiple selection does either english -> language or language - > english (works for English as the base language). GUI feature to be coming soon.
